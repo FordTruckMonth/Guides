@@ -8,5 +8,5 @@ Documents and guides that I've created.
 
 <H3> Unifi Guides</H3>
 <ul>
-  <li> Network Configuration, VLANs, Security, Segmentation</li>
+  <li> Network Configuration, VLANs, Security, Segmentation <i> soon </i></li>
 </ul>
