@@ -4,6 +4,7 @@ Documents and guides that I've created.
     <ul>
       <li> UNAS and Plex container setup </li>
       <li> Mint VM and Spice setup </li>
+      <li> Splunk Setup W.I.P. </li>
       </ul>
 
 <H3> Unifi Guides</H3>
